@@ -1,0 +1,6 @@
+O programa será um CRUD, utilizando Java no Backend, JPA para persistência de dados e H2 como banco
+de dados. Irei utilizar HTML,CSS,JavaScript (algum framework CSS) para estilizar a página.
+
+Começarei pelo Backend.
+
+Objetivo: criar um sistema para cadastro de clientes.
